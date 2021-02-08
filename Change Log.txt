@@ -1,0 +1,19 @@
+Revisi Program V1.2:
+1. Masuk/ Login dengan menekan Enter >>> Sudah berhasil
+2. Ganti Form name Space dari ATM Beras ke Bansos Masjid Baiturrahman >>> Sudah berhasil
+3. Penalmbahan menu close program di login form >>> Sudah berhasil
+4. Add enter as method to storing data in transaction table, penambahan fungsi enter setelh memasukan nominal pada top-Up Saldo, initSaldo, dan bagi Beras >>> sudah berhasil
+5. Input data desimal menggunakan tanda koma (,) untu bilangan pecahan. >>> sudah berhasil
+6. Setting Format data bisa menggunakan koma dan bisa menggunakan titik untuk input >>> sudah berhasil
+
+
+Revisi Program V1.1:
+changelog:
+1. add login screen
+2. Revisin About Page
+3. Change Icon
+5. Generate Installer for Windows OS
+
+
+Revisi Program V1.0:
+1. Penggantina Icon, Shortcut Name, Buid Apllication
